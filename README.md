@@ -1,3 +1,11 @@
+# War in my country Ukraine. 
+
+Im currently saving animals and supporting our army.
+Please support our fund so we can help more animals and people during the war.
+https://patreon.com/uah
+
+Ill be in the Kyiv till the end.
+
 ## Andrey Nikishaev (Kyiv, Ukraine) - Solution Architect, ML & DS Specialist
 [My CV](https://www.linkedin.com/in/creotiv/) - Looking for new interesting project
 
