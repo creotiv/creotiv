@@ -25,3 +25,7 @@ Ill be in the Kyiv till the end.
 - :dart: [All about Machine Learning: SOTA, Best papers, Tutorials, Courses](http://t.me/ml_world)
 - :book: [My Medium blog about ML and Software developing](https://a-nikishaev.medium.com/)
 - :tv: [My Youtube about Management and System Design](https://www.youtube.com/channel/UCiTcWrTnokuo6NksgGBx0kg)
+
+**My stats:**
+
+![My stats](https://github-readme-stats.vercel.app/api?username=creotiv&hide=contribs,prs)
