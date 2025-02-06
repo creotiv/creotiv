@@ -29,3 +29,10 @@ Ill be in the Kyiv till the end.
 **My stats:**
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=creotiv&hide=contribs,prs)
+
+
+<div style="text-align: center;">
+
+[![Andrey Nikishaev profile views](https://u8views.com/api/v1/github/profiles/250125/views/day-week-month-total-count.svg)](https://u8views.com/github/creotiv)
+
+</div>
