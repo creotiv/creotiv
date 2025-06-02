@@ -1,4 +1,4 @@
-## Andrey Nikishaev - Solution Architect, Sowfware Engineer with ML & DS experience (Open for work)
+## Andrey Nikishaev - Solution Architect, Sowfware Engineer with ML & DS experience (Open to work)
 [My CV](https://www.linkedin.com/in/creotiv/) - Looking for new interesting project
 
 **Years of experience**: 20+
